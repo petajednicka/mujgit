@@ -1,1 +1,2 @@
-"Text testovac¡ho souboru" 
+"Text testovacï¿½ho souboru" 
+NovÃ½ text
